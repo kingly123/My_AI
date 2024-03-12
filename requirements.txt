@@ -1,5 +1,5 @@
 sqlite3
 pickle
-dotenv
+python-dotenv
 PyPDF2
 langchain

@@ -1,4 +1,4 @@
-sqlite3==3.7.15
+sqlite3==3.45.0
 pickle
 python-dotenv
 PyPDF2

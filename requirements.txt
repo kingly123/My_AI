@@ -1,5 +1,9 @@
-sqlite3==3.45.0
+streamlit
+sqlite3
 pickle
 python-dotenv
 PyPDF2
 langchain
+htmlTemplate
+transformers
+faiss
